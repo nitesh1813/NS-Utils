@@ -1,0 +1,6 @@
+setup.py
+Utils/nspy.egg-info/PKG-INFO
+Utils/nspy.egg-info/SOURCES.txt
+Utils/nspy.egg-info/dependency_links.txt
+Utils/nspy.egg-info/requires.txt
+Utils/nspy.egg-info/top_level.txt
